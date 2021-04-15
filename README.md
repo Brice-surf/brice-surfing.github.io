@@ -1,1 +1,1 @@
-# brice-surfing.github.io
+# brice.github.io
